@@ -1,0 +1,25 @@
+div {
+    /* div:un fondo rojo, texto blanco, un tamaño de fuente de 32 px, alineado al centro y en negrita*/
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* p:un fondo verde, texto blanco y un tamaño de fuente de 18px */
+
+p {
+
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+/* button:un fondo naranja y un tamaño de fuente de 18px */
+
+button {
+
+    background-color: orange;
+    font-size: 18px;
+}
