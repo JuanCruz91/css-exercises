@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+/* Add CSS Styling 
+Las propiedades que debes agregar a cada elemento son:
+
+Haga que el elemento con las clases avatary proportionedtenga 300 píxeles de ancho, 
+luego asígnele una altura para que conserve sus proporciones cuadradas originales (¡no codifique un valor de píxel para la altura!).
+Haga que el elemento con las clases avatary distortedtenga 200 píxeles de ancho, 
+luego haga que su altura sea el doble de grande que su ancho (aquí debe codificar un valor de píxel).
+*/
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
