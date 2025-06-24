@@ -1,0 +1,32 @@
+/*Todos los elementos con numeración impar : un fondo rojo/rosa claro y una lista de fuentes que contienen 
+Verdanay DejaVu Sanscon sans-serifcomo alternativa
+El segundo elemento : texto azul y un tamaño de fuente de 36 px.
+El tercer elemento : además de los estilos para todos los elementos impares, agregue un tamaño de fuente de 24 px
+El cuarto elemento : un fondo verde claro, un tamaño de fuente de 24 px y negrita.
+*/
+
+.impar {
+
+    background-color: rgb(242, 205, 211);
+    font-family: sans-serif, sans-serif, verdana;
+}
+
+#segundo {
+
+    color: blue;
+    font-size: 36px;
+
+}
+
+#tercero {
+
+    font-size: 24px;
+
+}
+
+#cuarto {
+
+    background-color: rgb(114, 172, 114);
+    font-size: 24px;
+    font-weight: bold;
+}
