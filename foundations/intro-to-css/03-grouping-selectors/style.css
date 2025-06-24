@@ -1,0 +1,22 @@
+/* El primer elemento : un fondo negro y texto blanco.
+El segundo elemento : un fondo amarillo
+Ambos elementos : un tamaño de fuente de 28 px y una lista de fuentes que contienen Helveticay Times New Roman, 
+con sans-serifcomo alternativa
+*/
+
+button {
+
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.click1 {
+
+    background-color: black;
+    color: white;
+}
+
+.click2 {
+
+    background-color: yellow;
+}

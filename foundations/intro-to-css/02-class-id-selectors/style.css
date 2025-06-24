@@ -11,6 +11,12 @@ El cuarto elemento : un fondo verde claro, un tamaño de fuente de 24 px y negri
     font-family: sans-serif, sans-serif, verdana;
 }
 
+.tamanio {
+
+    font-size: 24px;
+
+}
+
 #segundo {
 
     color: blue;
@@ -18,15 +24,10 @@ El cuarto elemento : un fondo verde claro, un tamaño de fuente de 24 px y negri
 
 }
 
-#tercero {
 
-    font-size: 24px;
-
-}
 
 #cuarto {
 
     background-color: rgb(114, 172, 114);
-    font-size: 24px;
     font-weight: bold;
 }
